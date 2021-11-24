@@ -99,7 +99,11 @@ unsigned long temp_idbuff;
 void main(void) {
   /* put your own code here */
   
+<<<<<<< HEAD
   //SetupXGATE();
+=======
+ // SetupXGATE();15:09
+>>>>>>> fenzhi1
   
   Hardware_InitFunc();
   
