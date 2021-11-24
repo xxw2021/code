@@ -99,7 +99,7 @@ unsigned long temp_idbuff;
 void main(void) {
   /* put your own code here */
   
-  //SetupXGATE();
+  SetupXGATE();
   
   Hardware_InitFunc();
   
